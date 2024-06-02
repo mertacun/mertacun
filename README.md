@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm studying web development at Algonquin College 
 ## Projects
 
 ### [Personal Portfolio Website](https://github.com/mertacun/mertacun.github.io)
-Technologies: HTML, CSS, JavaScript
+Technologies: HTML, CSS, JavaScript  
 A personal portfolio website to showcase my projects, skills, and experiences. It includes sections for my bio, projects, and contact information, providing visitors with a comprehensive overview of my work.
 
 ### [Paula's - Responsive E-Commerce Website](https://github.com/mertacun/paula-s-ecommerce-website)
