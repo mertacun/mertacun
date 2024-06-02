@@ -30,6 +30,10 @@ Welcome to my GitHub profile! I'm studying web development at Algonquin College 
 
 ## Projects
 
+### [Personal Portfolio Website](https://github.com/mertacun/mertacun.github.io)
+Technologies: HTML, CSS, JavaScript
+A personal portfolio website to showcase my projects, skills, and experiences. It includes sections for my bio, projects, and contact information, providing visitors with a comprehensive overview of my work.
+
 ### [Paula's - Responsive E-Commerce Website](https://github.com/mertacun/paula-s-ecommerce-website)
 Technologies: HTML, CSS, JavaScript  
 Paula's E-Commerce Website is a fully responsive platform built with HTML, CSS, and JavaScript. Users can browse products, add them to the cart, and sort them based on various criteria. 
@@ -86,4 +90,8 @@ The Very Simple Calculator is a basic calculator application allowing users to p
 
 ## Connect with Me
 
+Feel free to reach out if you want to connect or have any questions!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:acun0008@algonquinlive.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-acun)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mertacun)
