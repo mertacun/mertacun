@@ -86,7 +86,6 @@ The Very Simple Calculator is a basic calculator application allowing users to p
 
 ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertacun&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertacun&layout=compact&theme=radical)
 
 ## Connect with Me
 
