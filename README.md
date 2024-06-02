@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm studying web development at Algonquin College 
 - 🔭 Working on diverse projects involving HTML, CSS, JavaScript, Python, PHP, SQL, and more.
 - 💬 Feel free to ask me about web development, programming, and application design.
 - 📫 You can reach me at: acun0008@algonquinlive.com
-- ⚡ Fun fact: I love solving puzzles and exploring new technologies.
+- ⚡ Fun fact: I enjoy exploring the city, finding new places to visit, and going on outdoor adventures.
 
 ## Technologies & Tools
 
